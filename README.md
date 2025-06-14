@@ -1,19 +1,17 @@
-# 🏡 Explore Homes That Fit Your Dreams
+# 🏡 Estate Corporation Website
 
-A modern and responsive web application built using **React**, **Vite**, and **Framer Motion** to provide smooth animations. This project allows users to explore real estate projects and contact the team through an integrated **Web3Forms** email service. Notifications are implemented with **React Notify**, enhancing user interaction and feedback.
-b)
+A professional, responsive, and modern website for an estate business, showcasing real estate listings, company services, and contact information. Built to provide a clean and elegant user experience for property buyers, sellers, and investors.
 
-## 🌟 Features
-- **Smooth Animations**: Powered by **Framer Motion**, animations trigger on scroll for a delightful user experience.
-- **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
-- **Web3Forms Integration**: Seamless email sending functionality for contact forms.
-- **React Notify**: Real-time notifications for user actions.
-- **Fast Development with Vite**: Leveraging **Vite** for faster builds and development.
+## 📌 Features
 
-![image](https://github.com/user-attachments/assets/0f7d6416-02e0-480c-8f5a-6590bf225b7)
-![image](https://github.com/user-attachments/assets/5aed9270-dc4d-4672-8006-1eb7d00fdb55)
-![image](https://github.com/user-attachments/assets/5d8c39da-b12c-4c68-b5f3-0df7748e4fd6)
-![image](https://github.com/user-attachments/assets/5a9be3ba-279f-48b9-9c49-88aeb47c5d02)
-![image](https://github.com/user-attachments/assets/6aebff00-6443-47f5-b8e2-bcc1ec7dc158)
+- ✨ Modern and elegant design
+- 📱 Fully responsive layout (mobile-first)
+- 🗂 Property listing sections
+- 🧭 Smooth navigation
+- 📧 Contact form / Contact section
+- 🏢 Company info and branding
+- ⚡ Fast loading and SEO-friendly
 
+## 🛠️ Tech Stack
 
+- **Frontend**: React.js
