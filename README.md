@@ -28,7 +28,4 @@ A modern and responsive web application built using **React**, **Vite**, and **F
 ## 🚀 Installation
 ![image](https://github.com/user-attachments/assets/6aebff00-6443-47f5-b8e2-bcc1ec7dc158)
 
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/explore-homes.git
-cd explore-homes
+
